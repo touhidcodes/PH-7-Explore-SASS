@@ -1,0 +1,16 @@
+$color-red: red;
+h1{
+    color: $color-red
+}
+nav{
+    color: $color-red;
+    border: 2px solid black;
+    ul{
+        display: flex;
+        
+      li{
+        list-style: none;
+        padding: 5px;
+      }
+    }
+  }

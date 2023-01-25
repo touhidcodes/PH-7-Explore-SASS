@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+nav {
+  color: red;
+  border: 2px solid black;
+}
+nav ul {
+  display: flex;
+}
+nav ul li {
+  list-style: none;
+  padding: 5px;
+}/*# sourceMappingURL=style.css.map */
